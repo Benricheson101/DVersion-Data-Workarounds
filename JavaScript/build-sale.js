@@ -6,7 +6,7 @@ const https = require('https'),
 
 /**
  * Workaround that uses data from https://builds.discord.sale/builds/raw?page=1&size=1
- * Data is return inside the sale object
+ * Data is returned inside the sale object
  * Limitations: Exclusive to canary, gets latest data
  * @returns {Promise<Object>}
  */
