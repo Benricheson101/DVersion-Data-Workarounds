@@ -1,6 +1,7 @@
 # Project
 .idea
 .DS_Store
+.caches/
 
 # Logs
 logs
